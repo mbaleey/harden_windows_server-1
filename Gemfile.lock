@@ -21,7 +21,7 @@ GEM
       in-parallel (~> 0.1)
       inifile (~> 2.0)
       json (~> 1.8)
-      minitar (~> 0.5.4)
+      minitar (~> 0.5.2)
       minitest (~> 5.4)
       net-scp (~> 1.2)
       net-ssh (= 3.3.0.beta1)
